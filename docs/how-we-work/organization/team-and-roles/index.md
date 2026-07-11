@@ -81,7 +81,7 @@ Each refined Position Description is filed alongside this roster in the same fol
     | Darren Lu            | CitiStat Program Manager         | Operations Manager I          | Performance Management | 15971   | darren.lu@baltimorecity.gov |  |
     | Open — to be posted  | Senior Performance Analyst       | Operations Officer III        | Performance Management | 115657  |  |  |
     | Ross Hackett         | CitiStat Analyst                 | CitiStat Analyst I            | Performance Management | 16441   | ross.hackett@baltimorecity.gov | 443-257-6074 |
-    | Griffin Riddler, PhD      | CitiStat Analyst                 | CitiStat Analyst I            | Performance Management | 47946   | griffin.riddler@baltimorecity.gov |  |
+    | Griffin Riddler, PhD      | CitiStat Analyst                 | CitiStat Analyst I            | Performance Management | 47946   | griffin.riddler@baltimorecity.gov | 443-257-6873 |
     | Ethan Buckborough    | CitiStat Analyst                 | CitiStat Analyst I            | Performance Management | 52437   | ethan.buckborough@baltimorecity.gov |  |
     | Nelson Gomes Boronat | CitiStat Analyst                 | CitiStat Analyst I | Performance Management | 62122   | nelson.gomesboronat@baltimorecity.gov | 443-750-2057 |
     | Rashaad Tillery      | CitiStat Inspector               | Operations Officer I          | AdminOps               | 50509   | rashaad.tillery@baltimorecity.gov | 443-845-8921 |
