@@ -45,7 +45,7 @@ This document consolidates the CitiStat strategic argument for City leadership, 
 
 ## What CitiStat is: a learning and accountability loop
 
-CitiStat is Baltimore’s learning and accountability loop: a management routine that converts performance signals into decisions, commitments, and follow-through. CitiStat is a partnership with agencies. Agencies own day-to-day operations and implementation. OPI convenes, analyzes, facilitates, helps unblock, and strengthens the system.
+CitiStat is Baltimore’s learning and accountability loop: a management routine that converts performance signals into decisions, commitments, and follow-through. CitiStat is a partnership with agencies and the Mayor's Office. Agencies own day-to-day operations and implementation. OPI convenes, analyzes, facilitates, helps unblock, and strengthens the system. The Mayor's Office sets executive direction and enforces accountability.
 
 <div class="opi-compare-grid" markdown="0">
   <div class="opi-compare-card">
@@ -142,7 +142,14 @@ CitiStat adds a management routine, not more meetings: a way to see what is work
 
 ### The four tenets of Stat
 
-CitiStat rests on the four tenets that have defined Stat-style performance management since CompStat and Baltimore's own CitiStat in 1999: **accurate and timely intelligence shared by all**, **rapid deployment of resources**, **effective tactics and strategies**, and **relentless follow-up and assessment**. The [Method Playbook](method-playbook.md#the-four-tenets-of-stat) is the official reference for what each tenet means in practice.
+CitiStat rests on the four tenets that have defined Stat-style performance management since CompStat and Baltimore's own CitiStat in 1999: 
+
+1. **Accurate and timely intelligence shared by all**
+2. **Rapid deployment of resources**
+3. **Effective tactics and strategies**
+4. **Relentless follow-up and assessment**
+
+The [Method Playbook](method-playbook.md#the-four-tenets-of-stat) is the official reference for what each tenet means in practice.
 
 ### The modern CitiStat operating cycle
 
@@ -188,7 +195,7 @@ For agency-based Stats, the analyst pairs two debriefs (one with the agency, one
 
 The strongest CitiStat portfolio is not the biggest portfolio. It is the portfolio where each routine has a clear purpose, a named authorizer, reliable enough data, agency ownership, and a reason leadership time is required.
 
-CitiStat should focus on 1–2 high-value priorities per agency or theme at a time. Each priority should connect to resident pain, frontline workflow, an operational constraint, or a public commitment. The work should stay focused long enough to change behavior, systems, or outcomes.
+CitiStat should focus on 1–2 high-value priorities per agency or theme at a time. Each priority should connect to resident pain, frontline workflow, an operational constraint, or a public commitment. Of those public commitments, preference should be given to those set out in the Mayor's Action Plan, Agency Performance Plans, or other high-level strategic plans. The work should stay focused long enough to change behavior, systems, or outcomes.
 
 If a topic does not produce decisions, commitments, measurable learning, or a delivery trigger after two cycles, it should be redesigned, paused, merged into another routine, or converted into a different operating mechanism such as a tiger team, product discovery engagement, data governance review, or decision memo.
 
@@ -214,7 +221,7 @@ CitiStat should prioritize metrics that are trusted, reproducible, operationally
 
 The strongest measures often reveal process and service quality: time-to-complete by step, backlog age distribution, repeat request patterns, exception rates, rework, routing accuracy, closure quality, inspection outcomes, and resident communication. Counts matter, but counts alone rarely explain why a service is or is not working.
 
-Every priority measure should be connected to the KPI dictionary and should include an owner, formula, source, refresh cadence, caveats, and equity or geography cuts where appropriate. When data quality is weak, CitiStat should not hide that weakness. It should name it and assign follow-up to fix it.
+Every priority measure should be connected to the KPI dictionary and should include an owner, formula, source, refresh cadence, caveats, and equity or geography cuts where appropriate. Agency-level and service-level metrics within the Agency Performance Plans should be prioritized when developing measures for regular use in CitiStat. When data quality is weak, CitiStat should not hide that weakness. It should name it and assign follow-up to fix it.
 
 ## CitiStat as a knowledge system
 
